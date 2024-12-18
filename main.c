@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <stdbool.h>
-
+//Emirhan Aslankarayiğit
 struct Room {
     char* information;
     char* gun;
